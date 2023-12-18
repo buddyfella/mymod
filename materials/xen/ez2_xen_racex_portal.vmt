@@ -1,0 +1,20 @@
+Patch
+{
+	"include" materials\xen\ez2_xen_racex_portal_static.vmt
+	"$surfaceprop" "advisor_shield"
+	"$nodecal" "1"
+	"insert"
+	{
+		$basetexture "xen/ez2_xen_racex_portal"
+
+		"Proxies"
+		{
+			"AnimatedTexture"
+			{
+				animatedtexturevar "$basetexture"
+				animatedtextureframenumvar "$frame"
+				animatedtextureframerate "17"
+			}
+		}
+	}
+}

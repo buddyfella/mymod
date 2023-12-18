@@ -1,0 +1,19 @@
+WorldVertexTransition
+{
+	"$basetexture" "xen/ez2_xenfloor_1"
+	"$basetexture2" "xen/ez2_xenwall_1"
+	"$surfaceprop" "mud"
+	"$bumpmap" "xen/ez2_xenfloor_1_normal"
+
+	"$envmap" "env_cubemap"
+                "$envmapmask" "tile/damptile_envmap"
+	"$envmaptint" "[0.07 0.07 0.07]"
+	"$fresnelreflection" "1"
+
+	"$blendmodulatetexture" "xen/ez2_xenfloor_2"
+//	"$basealphaenvmapmask" "1"
+	"$nodecal" "1"
+	"$seamless_scale" 0.012
+}
+
+

@@ -1,0 +1,18 @@
+Refract
+{
+	$normalmap "xen/ez2_xenpool_normal"
+ 	$refractamount "0.02"
+	//$refracttint "[5 73 73]"
+	$bluramount "2"
+	"%compilewater" 1
+	"$bottommaterial" "nature/water_riverbed01_beneath"
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar "$bumpTransform"
+			texturescrollrate "0.04"
+			texturescrollangle "270.00"
+		}
+	}
+}

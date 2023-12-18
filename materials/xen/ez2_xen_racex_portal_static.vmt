@@ -1,0 +1,6 @@
+SDK_UnlitGeneric
+{
+	"$basetexture" "xen/ez2_xen_racex_portal_static"
+	"$surfaceprop" "advisor_shield"
+	"$nodecal" "1"
+}

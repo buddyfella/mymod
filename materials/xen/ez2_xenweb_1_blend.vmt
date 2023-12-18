@@ -1,0 +1,14 @@
+SDK_WorldVertexTransition
+{
+	"$basetexture" "xen/ez2_xenweb_1"
+	"$basetexture2" "beefbacon/west/alpha0_2"
+	"$translucent" "1"
+	"$nodecal" "1"
+	"$nocull" 1
+	"$blendmodulatetexture" "ground/snowblendtexture"
+//	"$basealphaenvmapmask" "1"
+	"$nodecal" "1"
+	"$seamless_scale" "0.01"
+}
+
+

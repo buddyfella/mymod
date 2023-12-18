@@ -1,0 +1,14 @@
+SDK_WorldVertexTransition
+{
+	"$basetexture" "xen/ez2_xen_racex"
+	"$basetexture2" "xen/ez2_xenwall_1"
+	"$surfaceprop" "mud"
+	"$bumpmap" "xen/ez2_xen_racex_normal"
+
+	"$blendmodulatetexture" "ground/snowblendtexture"
+//	"$basealphaenvmapmask" "1"
+	"$nodecal" "1"
+	"$seamless_scale" 0.01
+}
+
+

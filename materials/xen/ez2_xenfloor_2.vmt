@@ -1,0 +1,19 @@
+LightmappedGeneric
+{
+	"$basetexture" "xen/ez2_xenfloor_2"
+	"$surfaceprop" "sand"
+	"$bumpmap" "xen/ez2_xenfloor_2_normal"
+	"$ssbump" "0"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "env_cubemap"
+	"%keywords" "ez2"
+	"$seamless_scale" 0.005
+
+	SDK_LightmappedGeneric_hdr_dx9
+	{
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "cubemaps/cubemap_cave01"
+	}
+
+}
