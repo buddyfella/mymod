@@ -1,5 +1,4 @@
 "chapters"
 {
 	1	"title1"
-	2	"title2"
 }

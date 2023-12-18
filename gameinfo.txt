@@ -1,7 +1,7 @@
 "GameInfo"
 {
 	game 		"BabbyMod"
-	title 		"HALF LIFE 4: HITLER'S REIGN"
+	title 		"Build13"
 	supportsvr	0
 
 	type		singleplayer_only
